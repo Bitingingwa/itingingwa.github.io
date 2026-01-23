@@ -12,7 +12,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    padding: 0; /* Correction typo 'o' */
+    padding: 0; 
     color: var(--text-dark);
     line-height: 1.6;
     background-color: var(--bg-light);
@@ -161,3 +161,4 @@ footer a {
     .quote-card { flex-direction: column; text-align: center; }
     .profile-img { margin: 0 0 20px 0; }
 }
+
